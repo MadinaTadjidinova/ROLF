@@ -1,0 +1,136 @@
+.gray_bg {
+    background: #efefef;
+}
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.subtitle-black {
+    text-align: center;
+    color: #595959;
+    font-size: 30px;
+    font-weight: 300;
+    padding-top: 30px;
+    /* font-family: 'Wire One', sans-serif; */
+    /* font-weight: 800; */
+}
+
+.title-black {
+    font-size: 45px;
+    text-align: center;
+    color: #000;
+    line-height: 1.3;
+    margin-bottom: 50px;
+    font-weight: 700;
+    /* text-transform: capitalize; */
+    text-transform: none;
+    position: relative;
+}
+
+.clear {
+    clear: both;
+    overflow: hidden;
+}
+
+.block-center {
+    margin: auto !important;
+    float: none;
+}
+
+.eight {
+    width: 70%;
+    float: left;
+    padding: 0 15px;
+    min-height: 1px;
+}
+
+.photo.z-index {
+    display: none;
+}
+
+.testimonials3 .photo {
+    float: left;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    max-width: 160px;
+}
+
+.z-index {
+    z-index: 9;
+    position: relative;
+}
+
+.testimonials3 .photo img {
+    border-radius: 50%;
+}
+
+.aligncenter {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+element.style {
+}
+.testimonials3 .photo img {
+    border-radius: 50%;
+}
+.aligncenter {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.testimonials3 .wrapp {
+    background: #FFF;
+    padding: 20px 20px 20px 40px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 13px 35px -28px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 0px 13px 35px -28px rgba(0,0,0,0.75);
+    box-shadow: 0px 13px 35px -28px rgb(0 0 0 / 75%);
+}
+.square-right-bottom-gray {
+    position: relative;
+}
+.testimonials3 .title {
+    font-size: 22px;
+    font-weight: 900;
+    margin-bottom: 15px;
+    text-align: left;
+}
+p {
+    margin: 0 0 15px 0;
+}
+.space50 {
+    margin-bottom: 50px;
+}
+.clear {
+    clear: both;
+    overflow: hidden;
+}
+.block-center {
+    margin: auto !important;
+    float: none;
+}
+.eight {
+    width: 70%;
+    padding: 0 15px;
+    min-height: 1px;
+}
+.photo.z-index {
+    display: none;
+}
+.testimonials3 .photo {
+    float: left;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    max-width: 160px;
+}
