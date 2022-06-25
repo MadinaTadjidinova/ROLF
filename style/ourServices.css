@@ -1,0 +1,7 @@
+.bold{
+    font-weight: bold;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
