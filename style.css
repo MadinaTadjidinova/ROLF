@@ -444,6 +444,11 @@ a{
 .p-10{
     padding: 10px;
 }
+@media (max-width: 700px){
+  .p-10{
+    padding-top: 90px;
+  }
+}
 @mixin white-gradient {
 	background: linear-gradient(to right,  rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
 }
@@ -576,7 +581,7 @@ footer {
   .ft-nav {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
   }
 .btn-end{
     margin: 0 auto;
