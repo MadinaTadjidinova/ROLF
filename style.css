@@ -576,6 +576,12 @@ footer {
   color: rgb(158, 13, 13);
     text-shadow: 1px 1px 2px #ff2121;
 }
+.copyright {
+  font: 200 14px 'Oswald', sans-serif;
+  color: #555;
+  letter-spacing: 1px;
+  text-align: center;
+}
 
 @media (max-width: 1000px) {
   .ft-nav {
@@ -593,6 +599,13 @@ footer {
  }
 }
 @media (max-width: 560px){
+  .img-table{
+    width: 120px;
+    height: 120px;
+  }
+  .card-catalog{
+    padding-bottom: 25px;
+  }
   .contactsBox{
     display: flex;
     flex-direction: column;
@@ -627,13 +640,7 @@ footer {
     padding-left: 0px;
     padding-right: 0px;
   }
-  .card-catalog{
-    padding-bottom: 25px;
-  }
-  .img-table{
-    width: 120px;
-    height: 120px;
-  }.card-catalog .bc-w {
+  .card-catalog .bc-w {
     padding: 0px
   }
   .p-10{
