@@ -619,3 +619,27 @@ footer {
   align-items: flex-start;
 }
 }
+@media (max-width: 450px) {
+  .lead {
+   transform: translateX(-7px);
+  }
+  .wrap{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .card-catalog{
+    padding-bottom: 25px;
+  }
+  .img-table{
+    width: 120px;
+    height: 120px;
+  }.card-catalog .bc-w {
+    padding: 0px
+  }
+  .p-10{
+    padding: 0px;
+  }
+  .catalog{
+    padding-top: 10px;
+  }
+ }
