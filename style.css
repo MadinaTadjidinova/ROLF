@@ -599,6 +599,15 @@ footer {
   transform: translateX(5px);
  }
 }
+@media (max-width: 815px){
+  .headerWhiteRow .contactsBox {
+      min-width: 0px;
+      max-width: 600px;
+  }
+  .headerWhiteRow .contactsBox .contactsLower {
+      padding-left: 0px;
+  }
+    }
 @media (max-width: 560px){
   .nav-in-n2{
     padding-top: 30px;
