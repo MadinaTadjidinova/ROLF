@@ -81,7 +81,6 @@
 }
 img {
     max-width: 100%;
-    height: auto;
 }
 .testimonials3 .wrapp {
     background: #FFF;
@@ -128,3 +127,21 @@ p {
     border: 5px solid #fff;
     max-width: 160px;
 }
+
+@media (max-width: 815px){
+    .headerWhiteRow .contactsBox {
+        min-width: 0px;
+        max-width: 600px;
+    }
+    .headerWhiteRow .contactsBox .contactsLower {
+        padding-left: 0px;
+        padding-top: 40px;
+    }
+      }
+
+      @media (max-width: 450px){
+        .container {
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+      }
